@@ -1,2 +1,14 @@
-kivy
-# Add other dependencies for Audio2Face integration later
+# Enhanced Requirements
+
+# Audio2Face integration dependencies
+# Placeholder: audio2face-library==version
+
+# Advanced animation libraries
+# Placeholder: advanced-animation-library==version
+
+# Deployment tools
+# Placeholder: buildozer==version
+# Placeholder: pyinstaller==version
+
+# Existing dependencies
+# Add existing dependencies here
