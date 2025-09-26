@@ -1,0 +1,2 @@
+kivy
+# Add other dependencies for Audio2Face integration later
